@@ -1,6 +1,6 @@
 ## Hi!👋 I'm Jahangir Alom Pial
 
-#### Web App and API Developer⁣, Expert on PHP, JS and Python, Solution Explorer
+#### Web App and API Developer⁣ | Expert on PHP, JS and Python | Solution Explorer
 ***
 
 I have more than 3 Years professional experience of developing different types of software projects for a huge number of concurrent users. I have a solid understanding about software architecture and design patterns. I can take responsibility for my own personal development and continually evaluate and upgrade my skills so that I can stay at the cutting edge of software development.
