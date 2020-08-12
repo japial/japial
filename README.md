@@ -7,26 +7,26 @@ I have more than 3 Years professional experience of developing different types o
 
 #### At a glimpse:
 
-> **Back-end**: PHP 7, Python, Laravel, CodeIgniter, CackePHP, Django, REST API
+> **Back-end**: PHP, Python, CackePHP, Django, Laravel, CodeIgniter, REST API
 > 
-> **Front-end**: HTML5, CSS3, ReactJS, VueJS, JavaScript, jQuery, Axios
+> **Front-end**: ReactJS, VueJS, jQuery, Axios, HTML5, CSS3
 > 
-> **Database**: MySQL, PostgreSQL
+> **Database**: MySQL, MongoDB, PostgreSQL
 > 
 > **Tools**: Git, VS Code, PyCharm
 > 
 > **API Integration**: Github, Twitter, Facebook, Google Auth, PayPal, Stripe, 2Checkout, BlockIO, Bkash, CityBank, BigBlueButton
 > 
-> **Server Administration**:  Digital Ocean, Docker, Ubuntu, VM,
+> **Server Administration**:  Digital Ocean, Docker, Ubuntu, VM
 
 #### Experiences
 ***
 
-→ **Software Engineer** , ClassTune [ 2019 - Present ]
+→ **Software Engineer** , ClassTune [ February 2019 - Present ]
 
-→ **Software Developer** , THESOFTKING [ 2017 - 2019 ]
+→ **Software Developer** , THESOFTKING [ October, 2017 - January, 2019 ]
 
-→ **Jr. Programmer** , Tormuz Ltd. [ 2007 - 2017 ]
+→ **Jr. Programmer** , Tormuz Ltd. [ January, 2017 - Sepetember, 2017 ]
 
 
 #### Education
