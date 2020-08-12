@@ -1,7 +1,6 @@
 ## Hi!👋 I'm Jahangir Alom Pial
 
 #### Web App and API Developer⁣ | Expert on PHP, JS and Python | Solution Explorer
-***
 
 I have more than 3 Years professional experience of developing different types of software projects for a huge number of concurrent users. I have a solid understanding about software architecture and design patterns. I can take responsibility for my own personal development and continually evaluate and upgrade my skills so that I can stay at the cutting edge of software development.
 
@@ -20,7 +19,6 @@ I have more than 3 Years professional experience of developing different types o
 > **Server Administration**:  Digital Ocean, Docker, Ubuntu, VM
 
 #### Experiences
-***
 
 → **Software Engineer** , ClassTune [ February 2019 - Present ]
 
@@ -30,6 +28,5 @@ I have more than 3 Years professional experience of developing different types o
 
 
 #### Education
-***
 
-→ **Bachelor of Science in Computer Science & Engineering** , Institute of Science and Technology, Dhaka [ 2013 - 2017 ]
+→ **Bachelor of Science in Computer Science & Engineering** , Institute of Science and Technology, Dhaka (NU) [ 2013 - 2017 ]
