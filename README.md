@@ -20,7 +20,7 @@
 
 → **Software Engineer** , mPower Social Ent. Ltd. [ September 2020 - Present ]
 
-→ **Software Engineer** , ClassTune [ February 2019 - August 2020 ]
+→ **Programmer** , ClassTune [ February 2019 - August 2020 ]
 
 → **Software Developer** , THESOFTKING [ October, 2017 - January, 2019 ]
 
