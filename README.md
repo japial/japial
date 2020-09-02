@@ -2,11 +2,9 @@
 
 #### Web App and API Developer⁣ | Expert on PHP, JS and Python | Solution Explorer
 
-I have more than 3 Years professional experience of developing different types of software projects for a huge number of concurrent users. I have a solid understanding about software architecture and design patterns. I can take responsibility for my own personal development and continually evaluate and upgrade my skills so that I can stay at the cutting edge of software development.
+#### Skills At a glimpse:
 
-#### At a glimpse:
-
-> **Back-end**: PHP, Python, CackePHP, Django, Laravel, CodeIgniter, REST API
+> **Back-end**: PHP, Python, Django, Laravel, CodeIgniter, REST API
 > 
 > **Front-end**: ReactJS, VueJS, jQuery, Axios, HTML5, CSS3
 > 
@@ -14,13 +12,15 @@ I have more than 3 Years professional experience of developing different types o
 > 
 > **Tools**: Git, VS Code, PyCharm
 > 
-> **API Integration**: Github, Twitter, Facebook, Google Auth, PayPal, Stripe, 2Checkout, BlockIO, Bkash, CityBank, BigBlueButton
+> **API Integration**: Github, BigBlueButton, Google Auth, PayPal, Stripe, 2Checkout, BlockIO, Bkash, CityBank
 > 
 > **Server Administration**:  Digital Ocean, Docker, Ubuntu, VM
 
 #### Experiences
 
-→ **Software Engineer** , ClassTune [ February 2019 - Present ]
+→ **Software Engineer** , mPower Social Ent. Ltd. [ September 2020 - Present ]
+
+→ **Software Engineer** , ClassTune [ February 2019 - August 2020 ]
 
 → **Software Developer** , THESOFTKING [ October, 2017 - January, 2019 ]
 
