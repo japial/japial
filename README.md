@@ -6,7 +6,7 @@
 
 > **Back-end**: PHP, Python, Django, Laravel, CodeIgniter, REST API
 > 
-> **Front-end**: ReactJS, VueJS, jQuery, Axios, HTML5, CSS3
+> **Front-end**: ReactJS, Angular, Ionic, VueJS, jQuery, Axios, HTML5, CSS3
 > 
 > **Database**: MySQL, MongoDB, PostgreSQL
 > 
