@@ -2,7 +2,7 @@
 
 #### Web App and API Developer⁣ | Expert on ReactJS, TypeScript, JS, and PHP | Solution Explorer
 
-#### Skills At a glimpse:
+#### Skills at a glimpse:
 
 > **Back-end**: PHP, Laravel, CodeIgniter, Python, Django
 > 
