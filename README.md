@@ -1,14 +1,14 @@
-## Hi!👋 I'm Jahangir Alom Pial
+## Hi! I'm Jahangir Alom Pial
 
-#### Web App and API Developer⁣ | Expert on PHP, JS and Python | Solution Explorer
+#### Web App and API Developer⁣ | Expert on ReactJS, TypeScript, JS, and PHP | Solution Explorer
 
 #### Skills At a glimpse:
 
-> **Back-end**: PHP, Python, Django, Laravel, CodeIgniter, REST API
+> **Back-end**: PHP, Laravel, CodeIgniter, Python, Django
 > 
-> **Front-end**: ReactJS, Angular, Ionic, VueJS, jQuery, Axios, HTML5, CSS3
+> **Front-end**: ReactJS, Angular, Ionic
 > 
-> **Database**: MySQL, MongoDB, PostgreSQL
+> **Database**: MySQL, MongoDB
 > 
 > **Tools**: Git, VS Code, PyCharm
 > 
