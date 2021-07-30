@@ -4,7 +4,7 @@
 
 #### Skills at a glimpse:
 
-> **Back-end**: PHP, Laravel, CodeIgniter, Python, Django
+> **Back-end**: NodeJS, NestJS, PHP
 > 
 > **Front-end**: ReactJS, Angular, Ionic
 > 
