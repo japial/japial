@@ -4,13 +4,13 @@
 
 #### Skills at a glimpse:
 
-> **Back-end**: NodeJS, NestJS, PHP
+> **Back-end**: Laravel, Codeigniter, PHP
 > 
-> **Front-end**: ReactJS, Angular, Ionic
+> **Front-end**: ReactJS, VueJS, Vanilla JS, Jquery
 > 
 > **Database**: MySQL, MongoDB
 > 
-> **Tools**: Git, VS Code, PyCharm
+> **Tools**: Git, JIRA 
 > 
 > **API Integration**: Github, BigBlueButton, Google Auth, PayPal, Stripe, 2Checkout, BlockIO, Bkash, CityBank
 > 
