@@ -1,6 +1,6 @@
 ## Hi! I'm Jahangir Alom Pial
 
-#### Web App and API Developer⁣ | Expert on ReactJS, Laravel, TypeScript, JS and PHP | Solution Explorer
+#### Web App and API Developer⁣ | Expert on PHP, TypeScript, JS, ReactJS and Laravel | Solution Explorer
 
 #### Skills at a glimpse:
 
@@ -8,7 +8,7 @@
 > 
 > **Front-end**: ReactJS, VueJS, Vanilla JS, Jquery
 > 
-> **Database**: MySQL, MongoDB
+> **Database**: MySQL, PostgreSQL
 > 
 > **Tools**: Git, JIRA 
 > 
@@ -18,13 +18,13 @@
 
 #### Experiences
 
-→ **Software Engineer** , mPower Social Ent. Ltd. [ September 2020 - Present ]
+→ **Software Engineer** , Portonics Limited. [ November 2022 - Present ]
+
+→ **Software Engineer** , mPower Social Ent. Ltd. [ September 2020 - October 2022 ]
 
 → **Programmer** , ClassTune [ February 2019 - August 2020 ]
 
 → **Software Developer** , THESOFTKING [ October, 2017 - January, 2019 ]
-
-→ **Jr. Programmer** , Tormuz Ltd. [ January, 2017 - Sepetember, 2017 ]
 
 
 #### Education
