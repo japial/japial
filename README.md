@@ -1,6 +1,6 @@
 ## Hi! I'm Jahangir Alom Pial
 
-#### Web App and API Developer⁣ | Expert on PHP, TypeScript, JS, ReactJS and Laravel | Solution Explorer
+#### Software Engineer⁣ | Product Manager | Solution Explorer
 
 #### Skills at a glimpse:
 
