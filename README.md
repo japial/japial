@@ -4,6 +4,10 @@
 
 #### Skills at a glimpse:
 
+> **Database**: MySQL, PostgreSQL
+>
+> **Data Analysis**: FineBI, Python
+> 
 > **Back-end**: ExpressJS, Laravel, Codeigniter, Symfony
 > 
 > **Front-end**: Remix, ReactJS, VueJS, Jquery
@@ -18,7 +22,9 @@
 
 #### Experiences
 
-→ **Software Engineer** , Portonics Limited. [ November 2022 - Present ]
+→ **Engineer III** , Huawei Technologies Bangladesh Limited. [ September 2024 - Present ]
+
+→ **Software Engineer** , Portonics Limited. [ November 2022 - August 2024 ]
 
 → **Software Engineer** , mPower Social Ent. Ltd. [ September 2020 - October 2022 ]
 
@@ -29,4 +35,4 @@
 
 #### Education
 
-→ **Bachelor of Science in Computer Science & Engineering** , Institute of Science and Technology, Dhaka (NU) [ 2013 - 2017 ]
+→ **BSc in Computer Science & Engineering** , Institute of Science and Technology, Dhaka (NU) [ 2013 - 2017 ]
