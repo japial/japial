@@ -4,9 +4,9 @@
 
 #### Skills at a glimpse:
 
-> **Back-end**: Laravel, Codeigniter, Symfony
+> **Back-end**: ExpressJS, Laravel, Codeigniter, Symfony
 > 
-> **Front-end**: ReactJS, VueJS, Jquery
+> **Front-end**: Remix, ReactJS, VueJS, Jquery
 > 
 > **Database**: MySQL, PostgreSQL
 > 
